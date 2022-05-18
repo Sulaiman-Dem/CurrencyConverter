@@ -26,3 +26,18 @@
 2. Then ask how much they want to convert
 3. Present the amount of conversion
 4. Ask if they want to do it again if not goodbye message
+
+// Improvement - Add something that will allow user to have more freedom to use any currency as default instead of only using US dollar
+// Improvement - Add a way to store inputs like in a expandable array or pointer (Train cars)
+// Improvement - Maybe have a price comparison of multiple user inputs
+// Improvement - Have tax rate in countries of interest if available
+// Improvement - Maybe have something that allows user to input the item with the price as well for comparison like a house price in US compared to UK
+
+// todo - Finish functions
+// todo - start putting functions in int main()
+// todo - Run Program
+// todo - Check for spelling errors
+// todo - Maybe add a picture of the country flag for more user appeal
+// todo -
+// todo -
+// todo -
