@@ -18,6 +18,7 @@
 3. Create constant variables of currency exchange
 4. Function to ask for how much they want to convert
 5. A function that ask for default currency
+6. A show function that present user's input amount and what it converted into to see difference
 
 ##### Int main () :
 
