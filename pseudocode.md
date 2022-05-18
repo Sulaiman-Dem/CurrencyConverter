@@ -13,8 +13,8 @@
 
 ##### Functions :
 
-1. A multiplication function
-2. A function of the options of Qatar, Singapore, United Kingdom, United Arab Emirates
+1. Multiplication functions
+2. A function of the options of Qatar, Singapore, United Kingdom, United Arab Emirates, France
 3. Create constant variables of currency exchange
 4. Function to ask for how much they want to convert
 5.
